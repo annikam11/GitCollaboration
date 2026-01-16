@@ -1,1 +1,1 @@
-# GitCollabration
+# GitCollaboration
